@@ -1,9 +1,3 @@
-# -- coding: utf-8 --
-# @Time: 2022-03-26 13:32
-# @Author: WangCx
-# @File: data_process
-# @Project: HypergraphNN
-
 import os
 import numpy as np
 import torch
